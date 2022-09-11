@@ -12,7 +12,5 @@ Using the unsupervised learning to the assembly of investment portfolios based o
 Python library
 
 
-
-
 scikit-learn
 

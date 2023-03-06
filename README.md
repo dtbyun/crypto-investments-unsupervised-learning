@@ -23,6 +23,7 @@ Studio Code (VSC), or any other compatible IDE for it to function correctly.
 Python - Computer programming language often used to build websites and software, automate tasks, and conduct data analysis.
 
 pandas - Python library for data manipulation and analysis, providing data structures and functions for efficiently handling and processing vaious types of data.
+
 <img width="139" alt="pippandas" src="https://user-images.githubusercontent.com/107937930/223029745-c440f78c-cd2d-412d-8b56-365776a19ca6.png">
 
 <img width="151" alt="condaspandas" src="https://user-images.githubusercontent.com/107937930/223030131-13accd31-841e-457b-b7ed-9cd8f882d652.png">

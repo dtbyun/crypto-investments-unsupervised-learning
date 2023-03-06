@@ -1,10 +1,6 @@
 # Crypto Investments using Unsupervised Learning
 
-Create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. Then plot results to visually show the performance
-
-Applying unsupervised machine learning with tools to automate decisions, interpret data, and forecast results.
-
-Using the unsupervised learning to the assembly of investment portfolios based on cryptocurrency profits.
+This notebook uses unsupervised machine learning to cluster cryptocurrencies based on their performance in different time periods. The clustering helps in assembling investment portfolios that are based on cryptocurrency profits. Additionally, the notebook uses tools to automate decisions, interpret data, and forecast results.
 
 ---
 
